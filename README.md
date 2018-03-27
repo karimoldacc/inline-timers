@@ -2,10 +2,10 @@
 
 [![sampctl](https://shields.southcla.ws/badge/sampctl-inline--timers-2f2f2f.svg?style=for-the-badge)](https://github.com/ltkarim/inline-timers)
 
-> This include allows you to use inline functions as callbacks for timers, similiar to inline dialog callbacks and inline MySQL callbacks. 
->
-> There is no support for passing extra arguments through this, because the variables (and arguments) in the parent function are accessible in the inline function as well due to a feature called "closuers", thus rendering the usage of the extra arguments useless. This is however a feature of YSI itself and it has nothing to do with this include.
->
+This include allows you to use inline functions as callbacks for timers, similiar to inline dialog callbacks and inline MySQL callbacks. 
+
+There is no support for passing extra arguments through this, because the variables (and arguments) in the parent function are accessible in the inline function as well due to a feature called "closuers", thus rendering the usage of the extra arguments useless. This is however a feature of YSI itself and it has nothing to do with this include.
+
 
 
 ## Installation
