@@ -1,4 +1,4 @@
-# inline-timers
+# inline_timers
 
 [![sampctl](https://shields.southcla.ws/badge/sampctl-inline--timers-2f2f2f.svg?style=for-the-badge)](https://github.com/ltkarim/inline-timers)
 
@@ -19,7 +19,7 @@ sampctl package install ltkarim/inline-timers
 Include in your code and begin using the library:
 
 ```pawn
-#include <inline-timers>
+#include <inline_timers>
 ```
 
 ## Usage
